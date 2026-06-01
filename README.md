@@ -22,9 +22,9 @@ The repository contains materials from two iterations of the workshop, one from 
 
 2. a reworked interpretation and communication activity in the slides.
 
-Navigate to the "2025" or "2026" folder to access the preferred materials. *The "2026" folder is under development and will be finalized on May 31, 2026.*
+Navigate to the "2025" or "2026" folder to access the preferred materials.
 
-The "2025" folder contains the following materials:
+The "2025" and "2026" folders contains the following materials:
 
 1. Slides from the workshop explaining the background, data sources, analysis process and interpretation of results.
 
@@ -36,6 +36,8 @@ The "2025" folder contains the following materials:
 - 4_cause_subanalysis_walkthrough.R: Overview of how to conduct a subgroup analysis.
 - 5_county_subanalysis_guided_practice.R: A script to test your understanding and application of conducting a subanalysis. User must fill in the blanks and answer questions to get code to run.
 - 5a_county_subanalysis_answer_key.R: Answer key for the second guided practice.
+- 6a_deputyrequest_age_answerkey.R: Answer key for independent learning; 2026 only.
+- Supplemental_download_census_population.R: Instructions for downloading Census data; 2026 only.
 
 3. The following data files:
 - linelist_2010-2020_mi.csv: The line list mortality data from Michigan downloaded and adjusted from CDC WONDER. **Pursuant to the data disclaimer above, use these data only for training purposes.** 
